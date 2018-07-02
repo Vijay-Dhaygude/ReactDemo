@@ -1,0 +1,16 @@
+.submitbtn
+{
+	margin-left: 30px;
+}
+.container
+{
+	padding: 20px;
+}
+.Todo
+{
+	text-decoration: none;
+    padding: 12px;
+    border: 1px solid gray;
+    border-radius: 7px;
+    list-style: none;
+}

@@ -1,0 +1,132 @@
+[
+{  
+      "accNumber":"01129955131",
+      "accType":"Saving",
+      "Transactions":[  
+         {  
+            "transactionDate":"01-02-2018",
+            "transactionStatus":"sucess",
+            "transactionID":"01",
+            "transactionAmount":"500NOK",
+            "transactionAddress":"Bank CRS Bergen 5052",
+            "transactionMode":"VISA card"
+         },
+         {  
+            "transactionDate":"01-02-2018",
+            "transactionStatus":"sucess",
+            "transactionID":"01",
+            "transactionAmount":"500NOK",
+            "transactionAddress":"Bank CRS Bergen 5052",
+            "transactionMode":"VISA card"
+         },
+         {  
+            "transactionDate":"01-02-2018",
+            "transactionStatus":"sucess",
+            "transactionID":"01",
+            "transactionAmount":"500NOK",
+            "transactionAddress":"Bank CRS Bergen 5052",
+            "transactionMode":"VISA card"
+         }
+      ]
+    
+   },
+   {  
+      "accNumber":"01129955456",
+      "accType":"Chequing",
+      "Transactions":[  
+         {  
+            "transactionDate":"01-02-2018",
+            "transactionStatus":"sucess",
+            "transactionID":"01",
+            "transactionAmount":"-1000NOK",
+            "transactionAddress":"Bank DNB Oslo 5052",
+            "transactionMode":"VISA card"
+         },
+         {  
+            "transactionDate":"01-02-2018",
+            "transactionStatus":"sucess",
+            "transactionID":"01",
+            "transactionAmount":"-1000NOK",
+            "transactionAddress":"Bank DNB Oslo 5052",
+            "transactionMode":"VISA card"
+         },
+         {  
+            "transactionDate":"01-02-2018",
+            "transactionStatus":"sucess",
+            "transactionID":"01",
+            "transactionAmount":"-1000NOK",
+            "transactionAddress":"Bank DNB Oslo 5052",
+            "transactionMode":"VISA card"
+         }
+      ]
+   },
+   {  
+      "accNumber":"01129951111",
+      "accType":"Current",
+      "Transactions":[  
+         {  
+            "transactionDate":"01-02-2018",
+            "transactionStatus":"sucess",
+            "transactionID":"01",
+            "transactionAmount":"-2200NOK",
+            "transactionAddress":"Bank DNB Oslo 5002",
+            "transactionMode":"Debit Card"
+         },
+         {  
+            "transactionDate":"01-02-2018",
+            "transactionStatus":"sucess",
+            "transactionID":"01",
+            "transactionAmount":"-2200NOK",
+            "transactionAddress":"Bank DNB Oslo 5002",
+            "transactionMode":"Debit Card"
+         },
+         {  
+            "transactionDate":"01-02-2018",
+            "transactionStatus":"sucess",
+            "transactionID":"01",
+            "transactionAmount":"-2200NOK",
+            "transactionAddress":"Bank DNB Oslo 5002",
+            "transactionMode":"Debit Card"
+         }
+      ]
+   },
+   {  
+      "accNumber":"01129951111",
+      "accType":"Loan",
+      "Transactions":[  
+         {  
+            "transactionDate":"01-02-2018",
+            "transactionStatus":"sucess",
+            "transactionID":"01",
+            "transactionAmount":"-6600NOK",
+            "transactionAddress":"Bank DNB Bergen 5008",
+            "transactionMode":"Bank transfer"
+         },
+         {  
+            "transactionDate":"01-02-2018",
+            "transactionStatus":"sucess",
+            "transactionID":"01",
+            "transactionAmount":"-6600NOK",
+            "transactionAddress":"Bank DNB Bergen 5008",
+            "transactionMode":"Bank transfer"
+         },
+         {  
+            "transactionDate":"01-02-2018",
+            "transactionStatus":"sucess",
+            "transactionID":"01",
+            "transactionAmount":"-6600NOK",
+            "transactionAddress":"Bank DNB Bergen 5008",
+            "transactionMode":"Bank transfer"
+         },
+         {  
+            "transactionDate":"01-02-2018",
+            "transactionStatus":"sucess",
+            "transactionID":"01",
+            "transactionAmount":"-6600NOK",
+            "transactionAddress":"Bank DNB Bergen 5008",
+            "transactionMode":"Bank transfer"
+         }
+      ]
+   }
+   
+   ]

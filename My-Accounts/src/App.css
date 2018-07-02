@@ -1,0 +1,120 @@
+.App {
+          text-align: center;
+          background: #F2F0EE;
+          background-size: 100%!important;
+          padding: 20px;
+          display: table;
+          clear: left;
+          width: 100%;
+          background: transparent;
+          background-repeat: repeat-y;
+          background-position: left top;
+          background-color: transparent;
+          padding-bottom: 20px;
+            /* argin: 45px 41px 30px 50px;*/      
+
+}
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  background: #D6EAF8;
+  height: 80px;
+}
+
+.hlogo
+{
+   margin-left: 45%;
+   height: 145px;
+   background: #D6EAF8;
+   margin-top:-80px;
+}
+
+.App-header {
+  background-color:  #e6ffe6;
+ /* color: white;*/
+  height: 50px; 
+  margin-top: 40px;
+}
+
+/* Style the navbar */
+#navbar {
+    margin-top: 20px;
+    overflow: hidden;
+    background-color: #ccffe6;
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+     width: 100%; /*Full width */
+}
+/* Navbar links */
+#navbar a {
+  float: left;
+  display: block;
+  color: #003366;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+a:hover {
+    background-color: #4dffb8;
+}
+.acnts
+{
+  font-size: 20px;
+  text-shadow: 1px 1px green;
+}
+
+/* Page content */
+.content {
+  padding: 16px;
+}
+
+/* The sticky class is added to the navbar with JS when it reaches its scroll position */
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+.acntName
+{
+ font-size: 20px;
+  text-shadow: 1px 1px green;
+  margin-left: 15px;
+    float: left;
+}
+.ssn
+{
+
+  font-size: 20px;
+  text-shadow: 1px 1px green;
+  margin-left: 300px;
+}
+#top{
+
+    width: 45px;
+    background-color: lightgreen;
+    height: 40px;
+    text-align: center;
+    text-shadow: 1px 1px green;
+    text-decoration: none;
+    padding-top: 15px;
+    float: right;
+    position: fixed;
+    bottom: 0;
+    border-radius: 60px;
+}
+.fotter
+{
+  font-size: 20px;
+  text-shadow: 1px 1px blue;
+  text-align: center;
+  margin-top: 20px;
+}
+.App-title {
+  font-size: 1.5em;
+}
+.App-intro {
+  font-size: large;
+}
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}

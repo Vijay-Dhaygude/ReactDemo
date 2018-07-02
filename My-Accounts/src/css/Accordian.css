@@ -1,0 +1,150 @@
+.table-title {
+
+  padding-top: 30px;
+
+  padding-bottom: 10px;
+
+}
+
+
+
+.table-container {
+
+  display: flex;
+
+  flex-wrap: wrap;
+
+  width: 100%;
+
+}
+
+  .description {
+
+    width: 186px;
+
+    text-align: left;
+
+    // border: 1px solid salmon;
+
+  }
+
+  .amount {
+
+    width: 125px;
+
+    text-align: right;
+
+    // border: 1px solid salmon;
+
+  }
+
+  .row {
+
+    display: flex;
+
+    width: 100%;
+
+    align-items: center;
+
+    border: 1px solid black;
+
+    &:nth-child(even) {
+
+      background: #f5f5f5
+
+    }
+
+    }
+
+    .cell {
+
+      font-size: 13px;
+
+      margin-right: 30px;
+
+      padding: 10px 0px 10px 0px;
+
+      &:nth-child(1) {
+
+        margin-left: 20px;
+
+      }
+
+    }
+
+
+
+
+
+
+
+.balloon {
+
+  width: 100%;
+
+  background: grey;
+
+  padding: 5px;
+
+}
+
+
+
+.hide {
+
+  display: none;
+
+}
+
+
+
+.accordion-toggle {cursor: pointer;padding: 15px;background: #D6EAF8;border-radius: 8px;border:1px solid #D6EAF0;}
+
+.accordion-content {display: none;padding: 13px;background: #D6EAF8;border-radius: 8px;}
+
+.accordion-content.default {display: block;}
+
+
+
+.accountTitle {
+
+    background: #D6EAF8;
+
+    padding: 10px;
+
+    margin-top: 10px;
+
+    font-size: 22px;
+
+    border-radius: 8px;
+
+}
+
+.Accrdn
+
+{
+
+    background: #EAFAF1;
+
+    border-radius: 10px;
+
+    padding: 10px;
+
+}
+
+.accType
+
+{
+
+float:right
+
+}
+
+.trnsAmount
+
+{
+
+float:right
+
+}
+ 
